@@ -1,3 +1,4 @@
+![logo](https://github.com/Sakshideshmukh123/Sakshideshmukh123/blob/main/programming.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Sakshi Deshmukh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
